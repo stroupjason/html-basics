@@ -7,8 +7,8 @@ If you want to build a website or web application, you'll need to know HTML.
 
 ## Take-aways:
 
-*Semantic markup
-*Formatting page content
-*Understanding file paths
-*Displaying images
-*Inline vs. block level elements
+* Semantic markup
+* Formatting page content
+* Understanding file paths
+* Displaying images
+* Inline vs. block level elements
