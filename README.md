@@ -1,8 +1,8 @@
 # html-basics
-html
+
 HTML (HyperText Markup Language), the language common to every website. 
 HTML describes the basic structure and content of a web page. 
-If you want to build a website or web application, you'll need to know HTML.
+If you want to build a website or web application, you'll need to know HTML. This page was built as a practice exercise for a VR Blog without CSS (future implementation).
 
 
 ## Take-aways:
